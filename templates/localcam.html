@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div mimetype="multipart/x-mixed-replace; boundary=frame">
+        <img src="{{ webcam  }}" alt="" srcset="" width="100%" >
+    </div>
+    {{ Response(gen_frames(), mimetype="multipart/x-mixed-replace; boundary=frame")  }}
+</body>
+</html>
