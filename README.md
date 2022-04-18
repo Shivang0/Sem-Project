@@ -1,4 +1,4 @@
-# Anthuk
+# Violence Detector
 
 # [Project Explaination Video](https://youtu.be/xm9P7dIT4hA)
 
@@ -11,7 +11,7 @@ The rise in number of violence in public assures insecurity and safety factor is
 ### Clone git repo
 
 ```
-git clone https://github.com/AnThuk/anthuk.git
+git clone https://github.com/Shivang0/Sem-Project.git
 ```
 
 ### Install dependencies
